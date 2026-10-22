@@ -1,3 +1,4 @@
+# KR2: Зырянова Арина
 import os
 import socket
 
