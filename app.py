@@ -35,3 +35,4 @@ def whoami():
         f"client: {request.headers.get('X-Real-IP', 'none')}\n"
         f"host: {request.headers.get('Host', 'none')}\n"
     )
+# cache test
